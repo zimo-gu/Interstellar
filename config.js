@@ -4,6 +4,10 @@ const config = {
     // You can add multiple users by doing username: 'password'.
     zimog: "admin",
     oscart: "user",
+    olivers: "user",
+    edenw: "user",
+    test: "test",
+    user: "user"
   },
 };
 export default config;
